@@ -1,0 +1,12 @@
+div, h1 {
+    text-align: center;
+}
+
+label {
+    font-size: 25px;
+}
+
+input {
+    padding: 20px;
+    margin: 10px;
+}
